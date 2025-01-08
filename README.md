@@ -5,7 +5,7 @@
 * Student N1: se13333, Abdurashidbek, Sadullaev (Team lead)
 * Student N2: se13418, Yusuf, Botirov (backend)
 * Student N3: se14204, Ilkhomov, Abduaziz (Front)
-* Student N4: Nurilla (Design)
+* Student N4:  Nurilla, Khikmatov (Design)
 
 ---
 
