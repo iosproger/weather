@@ -7,37 +7,37 @@
 * Student N3: se14204, Ilkhomov, Abduaziz (Front)
 * Student N4: Nurilla (Design)
 
-# Weather app: Project Description
+---
 
-## Overview
+## Project Description:
+The Weather App is a lightweight, publicly accessible web application that displays weather information for any city. It provides a clean and intuitive interface, making it user-friendly and ideal for quick demonstrations and practice in web-based application development.
 
-The **Weather app** is a simple, publicly accessible web application designed to allow users to see weather. It does not require user accounts or logins, making it ideal for quick demonstrations and practice in developing web-based applications.
-
-The website provides a clean and intuitive interface where users can view, edit.
-
-The application is lightweight, built using Flask, HTML, CSS and useing api 
+This project utilizes **Flask** (backend), **HTML/CSS** (frontend), and integrates with a weather API to fetch real-time data.
 
 ---
 
-## Key Features
+## Key Features:
+1. **City Weather Display**  
+   - Shows current weather information for any city.
+   - Includes weather description and an icon based on conditions.
+   
+2. **Temperature Conversion**  
+   - Displays temperature in Celsius.
 
-### 1. Weather 
-- Display current weather information for any city.
-
----
-
-### 2. AShows temperature in Celsius.
-
-
----
-
-### 3. Edit Expense
-- Provides weather descriptions and an icon based on weather conditions.
+3. **Lightweight and Open Access**  
+   - No login or user authentication required.  
+   - Fully open and accessible to anyone.
 
 ---
 
-### 4. No User Authentication
-- No login or user accounts are required.
-- The application is fully open for anyone accessing the site.
+## Technology Stack:
+- **Backend:** Flask
+- **Frontend:** HTML, CSS
+- **API:** Open Weather map
+- **Hosting Platform:** Azure
 
 ---
+
+## Future Enhancements:
+- Add temperature conversion (Fahrenheit support).
+- Implement geolocation for automatic weather detection.
